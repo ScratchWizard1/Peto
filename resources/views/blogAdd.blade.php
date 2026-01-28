@@ -21,7 +21,6 @@
               <label for="content" class="form-label">Obsah:</label>
               <textarea name="content" id="content" class="form-control" rows="5" required></textarea>
             </div>
-<div>   </div>
             <button type="submit" class="btn btn-primary">Save</button>
           </form>
         </div>
